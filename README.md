@@ -4,4 +4,5 @@ this repo is for documenting my touch typing journey with every test and its dat
 
 
 ## Thursday Dec 29th 2022
-1. 08:05AM Wpm = 24
+1. 08:05AM wpm = 24
+2. 08:07AM Wpm = 26
