@@ -13,3 +13,6 @@ this repo is for documenting my touch typing journey with every test and its dat
 
 ## saturday DEC 31st 2022
 1. 10:30PM wpm = 25 accuracy = 90%
+
+## Sunday Jan 1st 2023
+1. 07:04PM wpm = 29 accuracy = 95%
