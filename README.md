@@ -31,6 +31,8 @@ this repo is for documenting my touch typing journey with every test and its dat
 2. 11:12PM wpm 26 accuracy = 96%
 3. 11:14PM wpm 28 accuracy = 94%
 4. 11:15PM wpm 26 accuracy = 94%
+5. 11:16PM wpm 29 accuracy = 95%
+
 
 
 
