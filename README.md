@@ -28,5 +28,6 @@ this repo is for documenting my touch typing journey with every test and its dat
 
 ## Thursday Jan 5th 2023
 1. 11:11PM wpm 20 accuracy = 89%
+2. 11:12PM wpm 26 accuracy = 96%
 
 
