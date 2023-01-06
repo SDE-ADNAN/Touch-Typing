@@ -34,6 +34,7 @@ this repo is for documenting my touch typing journey with every test and its dat
 5. 11:16PM wpm 29 accuracy = 95%
 
 
-
+## Friday Jan 6th 2023
+1. WPM 25 ACC = 96%
 
 
