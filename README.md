@@ -38,5 +38,6 @@ this repo is for documenting my touch typing journey with every test and its dat
 1. WPM 25 ACC = 96%
 2. WPM 24 ACC = 97%
 3. WPM 28 ACC = 94%
+4. WPM 21 ACC = 92%
 
 
