@@ -56,4 +56,8 @@ this repo is for documenting my touch typing journey with every test and its dat
 ## Sunday Jan 8th 2023
 1. WPM 27 acc = 97%
 
+## Monday Jan 9th 2023
+1. WPM 37 acc = 95%
+
+
 
