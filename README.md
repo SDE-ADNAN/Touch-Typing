@@ -75,4 +75,3 @@ this repo is for documenting my touch typing journey with every test and its dat
 
 1. WPM 35 acc = 94%
 
-## git test
