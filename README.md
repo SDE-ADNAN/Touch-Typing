@@ -130,5 +130,4 @@ this repo is for documenting my touch typing journey with every test and its dat
 
 1. wpm 32 acc 90%
 2. wpm 30 acc 96%
-
-
+3. wpm 33 acc 92%
