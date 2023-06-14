@@ -159,3 +159,19 @@ this repo is for documenting my touch typing journey with every test and its dat
 1. 34 WPM with 91% accuracy!
 
 
+## tuesday 14 june 2023
+
+1. 36 wpm with 89% accuracy!
+
+
+
+
+
+
+
+
+
+
+
+
+
